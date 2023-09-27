@@ -1,6 +1,6 @@
 <!--== Introduction Banner ==-->
 
-![iBanner](https://i.pinimg.com/originals/46/0c/bd/460cbd085e34e1610880f1b34ec8e79e.png)
+![iBanner](https://preview.redd.it/mvhsi4hbry051.png?width=640&crop=smart&auto=webp&s=0187649495c60ff7463ce5d88a684fd475fac06c)
 
 <!--=== Introduction ===-->
 
@@ -28,7 +28,7 @@
 
 <!---=== Third Banner ===-->
 
-![tBanner](https://c4.wallpaperflare.com/wallpaper/866/268/923/indie-games-nebula-pixel-art-pixels-wallpaper-preview.jpg)
+![tBanner](https://i.pinimg.com/originals/46/0c/bd/460cbd085e34e1610880f1b34ec8e79e.png)
 
 # 🏆 • Bye
 
