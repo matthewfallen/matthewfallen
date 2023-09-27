@@ -1,6 +1,6 @@
 <!--== Introduction Banner ==-->
 
-![iBanner](https://preview.redd.it/mvhsi4hbry051.png?width=640&crop=smart&auto=webp&s=0187649495c60ff7463ce5d88a684fd475fac06c)
+![iBanner](https://i.redd.it/htresoq1ubz41.png)
 
 <!--=== Introduction ===-->
 
