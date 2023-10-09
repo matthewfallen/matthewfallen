@@ -6,7 +6,7 @@
 
 # 👋 • Introduction
 
-> Hi, I'm Sati, a developer and beginner Artist. I started my programming journey at the age of 14 with the goal of creating a server for Minecraft, which led me to learning JavaScript. From there I began to expand my knowledge and I am creating an RPG project on Discord to give fun to the users of this application.
+> Hi, I'm nova, a developer and beginner Artist. I started my programming journey at the age of 14 with the goal of creating a server for Minecraft, which led me to learning JavaScript. From there I began to expand my knowledge and I am creating an RPG project on Discord to give fun to the users of this application.
 > Currently, I have experience in few languages, JavaScript, HTML/CSS and SQL. I'm currently learning more about JavaScript, Redis and Python.
 
 ---
@@ -35,4 +35,4 @@
 
 ---
 
-> Made with ❤ by Omi
+> Made with ❤ by nova
