@@ -6,7 +6,7 @@
 
 # 👋 • Introduction
 
-> Hi, I'm nova, a beginner developer and artist. I started my path in programming at the age of 14 with the goal of creating a server for Minecraft, which led me to learn a bit more about JavaScript. From there I started to expand my knowledge and I'm creating an RPG project in Discord to give fun to the users of this application. Currently, I have experience in few languages, JavaScript, HTML/CSS.
+> Hi, I'm matt, a beginner developer and artist. I started my path in programming at the age of 14 with the goal of creating a server for Minecraft, which led me to learn a bit more about JavaScript. From there I started to expand my knowledge and I'm creating an RPG project in Discord to give fun to the users of this application. Currently, I have experience in few languages, JavaScript, HTML/CSS.
 > I am in the process of learning JavaScript, Redis, Python and MySQL.
 
 ---
@@ -35,4 +35,4 @@
 
 ---
 
-> Made with ❤ by nova
+> Made with ❤ by matt
