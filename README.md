@@ -6,8 +6,8 @@
 
 # 👋 • Introduction
 
-> Hi, I'm matt, a beginner developer and artist. I started my path in programming at the age of 14 with the goal of creating a server for Minecraft, which led me to learn a bit more about JavaScript. From there I started to expand my knowledge and I'm creating an RPG project in Discord to give fun to the users of this application. Currently, I have experience in few languages, JavaScript, HTML/CSS.
-> I am in the process of learning JavaScript, Redis, Python and MySQL.
+> Hi, I'm Matthew — a self-taught developer and digital artist. I started programming at 14, driven by the idea of creating my own Minecraft server and plugins. That journey led me to discover JavaScript, and from there, I’ve been expanding my skills step by step.
+> Right now, I’m working on an RPG project called Stardia, built for Discord to bring fun and engaging experiences to its users. I'm currently learning JavaScript, HTML, CSS, Redis, Node.js, and MySQL — always building and exploring new ways to grow as a developer.
 
 ---
 
@@ -20,7 +20,7 @@
 # ⭐ • Games
 
 > As a big fan of video games, I focus on large projects related to this area and that generally help the community. It may not seem like it, but we have several related projects that are private because we only publish them when we already have a beta and stable version. Predefined version to perform repairs and maintenance soon after.
-> I am currently working with 2 projects related to bots and RPG theme, I also like much more in the Minecraft area and some of these projects are planned to be approved... Despite being a novice developer I hope to be able to help in these areas by a long time.
+> I am currently working with 1 project related to bots and RPG theme, I also like much more in the Minecraft area and some of these projects are planned to be approved... Despite being a novice developer I hope to be able to help in these areas by a long time.
 
 --- 
 
